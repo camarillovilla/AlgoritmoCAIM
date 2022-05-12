@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/43kfj3wrxsjPw0060nYOUZkq659rMwv1o3e2AZ9ZDr1w6IXXVElvqZaVJ5bsdKk5H/sskj6KytDpfbDec4AzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Propietario\\Documents\\Escritorio\\6 SEM\\Inteligencia Artificial\\AlgoritmoCAIM\\AlgoritmoCAIM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Propietario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
